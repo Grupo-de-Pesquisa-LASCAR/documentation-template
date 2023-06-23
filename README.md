@@ -1,4 +1,4 @@
-# Template de Documentação
+# _Template_ de Documentação
 
 O objetivo deste repositório é fornecer um _template_ simples para documentação de projetos da organização. Para tal, copie o arquivo para o respectivo repositório e modifique-o de acordo com as necesssidades especificas de seu projeto.
 
