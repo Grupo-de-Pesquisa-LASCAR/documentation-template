@@ -8,4 +8,4 @@ Acesse o template [aqui](https://github.com/Grupo-de-Pesquisa-LASCAR/documentati
 
 *Nota:* o templante tem como foco ser auto-contido, isso quer dizer que a ideia é que alguém que não teve acesso a material externo (como dissertação) consiga entender a solução proposta. Isso não impede que o texto desses materiais possam ser reaproveitado ao longo da documentação. Vale salientar, no entanto, que o texto reaproveitado deve serr ajustado para o contexto proposto (relacionado principalmente a implementação).
 
-"Se enxerguei mais longe, foi porque me apoiei sobre os ombros de gigantes" - Sir Isaac Newton
+> "Se enxerguei mais longe, foi porque me apoiei sobre os ombros de gigantes" - Sir Isaac Newton
