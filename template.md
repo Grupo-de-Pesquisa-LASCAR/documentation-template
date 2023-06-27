@@ -32,21 +32,21 @@ Apresenta referências para compreensão de conceitos importantes para entender 
 
 ## Cite-me
 
-Referências de artigos, dissertação ou tese publicada para a solução proposta seguindo o modelo abaixo:
+Referências de artigos, dissertação ou tese publicada para a solução proposta seguindo os modelos descritos abaixo:
 
-**De Revistas Científicas:**
+### De Revistas Científicas:
 
 Autores. Título da Publicação. Revista **Volume ou Número**, Páginas (Ano). [LINK DO DOI](LINK DO DOI)
 
-**Exemplo**:
+### Exemplo:
 
 Basso, M., Pignaton de Freitas, E. A UAV Guidance System Using Crop Row Detection and Line Follower Algorithms. J Intell Robot Syst *97*, 605–621 (2020). [https://doi.org/10.1007/s10846-019-01006-0](https://doi.org/10.1007/s10846-019-01006-0)
 
-**De Outros Repositórios:**
+### De Outros Repositórios:
 
 Autores. Título da Publicação. Tipo de Publicação. [LINK DO REPOSITÓRIO](LINK DO REPOSITÓRIO)
 
-**Exemplo**:
+### Exemplo:
 
 Basso, M., Pignaton de Freitas, E. A framework for autonomous mission and guidance control of unmanned aerial vehicles based on computer vision techniques. Dissertação de Mestrado. [https://www.lume.ufrgs.br/bitstream/handle/10183/179536/001068554.pdf](https://www.lume.ufrgs.br/bitstream/handle/10183/179536/001068554.pdf)
 
