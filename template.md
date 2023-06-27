@@ -2,13 +2,13 @@
 
 ## Sumário
 
-- [Resumo](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#resumo);
-- [Descrição](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#descrição);
-- [Setup](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#setup);
-- [Passos para reproduzir](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#passos-para-reproduzir);
-- [Referências Úteis](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#referências-úteis);
-- [Cite-me](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#cite-me);
-- [Melhorias](https://github.com/LASCAR-USRL/plant-line-detection/tree/master#melhorias).
+- [Resumo]([LINK DO REPOSITÓRIO]/tree/master#resumo);
+- [Descrição]([LINK DO REPOSITÓRIO]/tree/master#descrição);
+- [Setup]([LINK DO REPOSITÓRIO]/tree/master#setup);
+- [Passos para reproduzir]([LINK DO REPOSITÓRIO]/tree/master#passos-para-reproduzir);
+- [Referências Úteis]([LINK DO REPOSITÓRIO]/tree/master#referências-úteis);
+- [Cite-me]([LINK DO REPOSITÓRIO]/tree/master#cite-me);
+- [Melhorias]([LINK DO REPOSITÓRIO]/tree/master#melhorias).
 
 ## Resumo
 
@@ -32,7 +32,23 @@ Apresenta referências para compreensão de conceitos importantes para entender 
 
 ## Cite-me
 
-Referências de artigos, dissertação ou tese publicada para a solução proposta.
+Referências de artigos, dissertação ou tese publicada para a solução proposta seguindo o modelo abaixo:
+
+**De Revistas Científicas:**
+
+Autores. Título da Publicação. Revista **Volume ou Número**, Páginas (Ano). [LINK DO DOI](LINK DO DOI)
+
+**Exemplo**:
+
+Basso, M., Pignaton de Freitas, E. A UAV Guidance System Using Crop Row Detection and Line Follower Algorithms. J Intell Robot Syst *97*, 605–621 (2020). [https://doi.org/10.1007/s10846-019-01006-0](https://doi.org/10.1007/s10846-019-01006-0)
+
+**De Outros Repositórios:**
+
+Autores. Título da Publicação. Tipo de Publicação. [LINK DO REPOSITÓRIO](LINK DO REPOSITÓRIO)
+
+**Exemplo**:
+
+Basso, M., Pignaton de Freitas, E. A framework for autonomous mission and guidance control of unmanned aerial vehicles based on computer vision techniques. Dissertação de Mestrado. [https://www.lume.ufrgs.br/bitstream/handle/10183/179536/001068554.pdf](https://www.lume.ufrgs.br/bitstream/handle/10183/179536/001068554.pdf)
 
 ## Melhorias
 
