@@ -6,7 +6,7 @@ Contém um resumo da solução proposta. Para tal, precisa apresentar o minimo d
 
 ## Descrição
 
-Contém uma descrição de alto nível da implementação da solução proposta (de perferência fluxogramas, pseudocódigos, ou imagens da arquitetura utilizada).
+Contém uma descrição de alto nível da implementação da solução proposta (de preferência fluxogramas, pseudocódigos, ou imagens da arquitetura utilizada).
 
 ## _Setup_
 
